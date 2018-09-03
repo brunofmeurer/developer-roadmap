@@ -10,4 +10,6 @@
 <nav> - Sessão de navegação, links principais da pagina
 <figure> - Envolverá normalmente uma imagem na tela
 <time> - Apresenta de forma estruturada data e hora
+<address> - Apresenta endereço de forma estruturada na tela
 ```
+![HTML4 x HTML5](https://cdn-images-1.medium.com/max/562/0*yi18C1GKlWY4l6Ef.png)
